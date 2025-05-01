@@ -1,0 +1,22 @@
+[
+    { "id": "1",  "nombre": "Palomitas",    "precio": "23.00",  "imagen": "palomitas.jpg" },
+    { "id": "2",  "nombre": "Refresco",     "precio": "18.00",  "imagen": "refresco.jpeg" },
+    { "id": "3",  "nombre": "Nachos",       "precio": "35.00",  "imagen": "nachos.jpeg" },
+    { "id": "4",  "nombre": "HotDog",       "precio": "30.00",  "imagen": "hotdog.jpg" },
+    { "id": "5",  "nombre": "Pizza",        "precio": "50.00",  "imagen": "pizza.jpg" },
+    { "id": "6",  "nombre": "Helado",       "precio": "25.00",  "imagen": "helado.jpg" },
+    { "id": "7",  "nombre": "Chocolate",    "precio": "20.00",  "imagen": "chocolate.jpeg" },
+    { "id": "8",  "nombre": "Galletas",     "precio": "15.00",  "imagen": "galletas.jpeg" },
+    { "id": "9",  "nombre": "PapasFritas",  "precio": "28.00",  "imagen": "papasfritas.jpeg" },
+    { "id": "10", "nombre": "Dulces",       "precio": "10.00",  "imagen": "dulces.jpeg" },
+    { "id": "11", "nombre": "Pan",          "precio": "12.00",  "imagen": "pan.png" },
+    { "id": "12", "nombre": "Jugo",         "precio": "14.00",  "imagen": "jugo.png" },
+    { "id": "13", "nombre": "Leche",        "precio": "16.00",  "imagen": "leche.png" },
+    { "id": "14", "nombre": "Queso",        "precio": "20.00",  "imagen": "queso.png" },
+    { "id": "15", "nombre": "Huevo",        "precio": "18.00",  "imagen": "huevo.png" },
+    { "id": "16", "nombre": "Arroz",        "precio": "17.00",  "imagen": "arroz.png" },
+    { "id": "17", "nombre": "Frijol",       "precio": "15.00",  "imagen": "frijol.png" },
+    { "id": "18", "nombre": "Sal",          "precio": "10.00",  "imagen": "sal.png" },
+    { "id": "19", "nombre": "Azúcar",       "precio": "11.00",  "imagen": "azucar.png" },
+    { "id": "20", "nombre": "Avena",        "precio": "13.00",  "imagen": "avena.png" }
+]
